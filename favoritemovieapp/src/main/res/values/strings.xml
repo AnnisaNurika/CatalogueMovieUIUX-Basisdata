@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FavoriteMovieApp</string>
+    <string name="tambah">Tambah</string>
+    <string name="hapus">Hapus</string>
+    <string name="title">Judul</string>
+    <string name="popularity">Popularitas</string>
+    <string name="submit">Simpan</string>
+</resources>

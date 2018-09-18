@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CatalogueMovieBasisdata</string>
+    <string name="navigation_drawer_open">Buka navigation drawer</string>
+    <string name="navigation_drawer_close">Tutup navigation drawer</string>
+    <string name="nav_header_title">Annisa Nurika</string>
+    <string name="nav_header_subtitle">annysa.nurikaa@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_change_settings">Ubah Pengaturan Bahasa</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="overview">Sinopsis Film</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="popularity">Popularitas</string>
+    <string name="search">Cari</string>
+    <string name="detail">Detail</string>
+    <string name="delete_favorite">Hapus Favorit</string>
+    <string name="share">Bagikan</string>
+    <string name="home">Beranda</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="upcoming">Segera Tayang</string>
+    <string name="favorite">Favorit</string>
+    <string name="communicate">Komunikasi</string>
+    <string name="send">Kirim</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="add_favorite">Tambah Favorit Film</string>
+    <string name="remove_favorite">Hapus Favorit Film</string>
+    <string name="toast_add">Film berhasil ditambah pada List Favorit</string>
+    <string name="toast_remove">Film berhasil dihapus pada List Favorit</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
+</resources>

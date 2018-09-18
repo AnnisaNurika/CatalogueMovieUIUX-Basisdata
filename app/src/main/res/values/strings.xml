@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CatalogueMovie Basisdata</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Annisa Nurika</string>
+    <string name="nav_header_subtitle">annysa.nurikaa@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_change_settings">Change Language Settings</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="overview">Overview</string>
+    <string name="release">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="search">Search</string>
+    <string name="detail">Detail</string>
+    <string name="delete_favorite">Unfavorite</string>
+    <string name="share">Share</string>
+    <string name="home">Home</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="favorite">Favorite</string>
+    <string name="communicate">Communicate</string>
+    <string name="send">Send</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="add_favorite">Add to Favorite Movie</string>
+    <string name="remove_favorite">Remove Favorite Movie</string>
+    <string name="toast_add">The movie was successfully added to the Favorites List</string>
+    <string name="toast_remove">The movie was successfully deleted to the Favorites List</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
+</resources>

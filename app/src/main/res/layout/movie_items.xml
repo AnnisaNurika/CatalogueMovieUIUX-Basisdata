@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/img_poster"
+        android:layout_width="60dp"
+        android:layout_height="75dp"
+        android:layout_marginRight="16dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/img_poster"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title_movie"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_overview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/overview" />
+
+        <TextView
+            android:id="@+id/tv_release"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/release" />
+
+        <TextView
+            android:id="@+id/tv_popularity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/popularity" />
+    </LinearLayout>
+</RelativeLayout>
